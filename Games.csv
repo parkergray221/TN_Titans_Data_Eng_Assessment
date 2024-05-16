@@ -1,0 +1,817 @@
+Season,Week,Game_Date,Start_Time,Start_Time_GMT_Offset,Game_Site,Home_Team,Home_Team_Final_Score,Visit_Team,Visit_Team_Final_Score
+2021,1,9/9/2021,20:20,-5,Tampa Bay,Tampa Bay Buccaneers,31,Dallas Cowboys,29
+2021,1,9/12/2021,13:00,-5,Atlanta,Atlanta Falcons,6,Philadelphia Eagles,32
+2021,1,9/12/2021,13:00,-5,Orchard Park,Buffalo Bills,16,Pittsburgh Steelers,23
+2021,1,9/12/2021,13:00,-5,Charlotte,Carolina Panthers,19,New York Jets,14
+2021,1,9/12/2021,13:00,-5,Cincinnati,Cincinnati Bengals,27,Minnesota Vikings,24
+2021,1,9/12/2021,13:00,-5,Detroit,Detroit Lions,33,San Francisco 49ers,41
+2021,1,9/12/2021,12:00,-6,Houston,Houston Texans,37,Jacksonville Jaguars,21
+2021,1,9/12/2021,13:00,-5,Indianapolis,Indianapolis Colts,16,Seattle Seahawks,28
+2021,1,9/12/2021,12:00,-6,Nashville,Tennessee Titans,13,Arizona Cardinals,38
+2021,1,9/12/2021,13:00,-5,Landover,Washington Football Team,16,Los Angeles Chargers,20
+2021,1,9/12/2021,15:25,-6,Kansas City,Kansas City Chiefs,33,Cleveland Browns,29
+2021,1,9/12/2021,16:25,-5,Foxborough,New England Patriots,16,Miami Dolphins,17
+2021,1,9/12/2021,16:25,-5,Jacksonville,New Orleans Saints,38,Green Bay Packers,3
+2021,1,9/12/2021,16:25,-5,East Rutherford,New York Giants,13,Denver Broncos,27
+2021,1,9/12/2021,17:20,-8,Inglewood,Los Angeles Rams,34,Chicago Bears,14
+2021,1,9/13/2021,17:15,-8,Las Vegas,Las Vegas Raiders,33,Baltimore Ravens,27
+2021,2,9/19/2021,13:00,-5,Pittsburgh,Pittsburgh Steelers,17,Las Vegas Raiders,26
+2021,2,9/16/2021,20:20,-5,Landover,Washington Football Team,30,New York Giants,29
+2021,2,9/19/2021,13:00,-5,Charlotte,Carolina Panthers,26,New Orleans Saints,7
+2021,2,9/19/2021,12:00,-6,Chicago,Chicago Bears,20,Cincinnati Bengals,17
+2021,2,9/19/2021,13:00,-5,Cleveland,Cleveland Browns,31,Houston Texans,21
+2021,2,9/19/2021,13:00,-5,Indianapolis,Indianapolis Colts,24,Los Angeles Rams,27
+2021,2,9/19/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,13,Denver Broncos,23
+2021,2,9/19/2021,13:00,-5,Miami Gardens,Miami Dolphins,0,Buffalo Bills,35
+2021,2,9/19/2021,13:00,-5,East Rutherford,New York Jets,6,New England Patriots,25
+2021,2,9/19/2021,13:00,-5,Philadelphia,Philadelphia Eagles,11,San Francisco 49ers,17
+2021,2,9/19/2021,13:05,-8,Glendale,Arizona Cardinals,34,Minnesota Vikings,33
+2021,2,9/19/2021,16:05,-5,Tampa Bay,Tampa Bay Buccaneers,48,Atlanta Falcons,25
+2021,2,9/19/2021,13:25,-8,Inglewood,Los Angeles Chargers,17,Dallas Cowboys,20
+2021,2,9/19/2021,13:25,-8,Seattle,Seattle Seahawks,30,Tennessee Titans,33
+2021,2,9/19/2021,20:20,-5,Baltimore,Baltimore Ravens,36,Kansas City Chiefs,35
+2021,2,9/20/2021,19:15,-6,Green Bay,Green Bay Packers,35,Detroit Lions,17
+2021,3,9/23/2021,19:20,-6,Houston,Houston Texans,9,Carolina Panthers,24
+2021,3,9/26/2021,13:00,-5,Orchard Park,Buffalo Bills,43,Washington Football Team,21
+2021,3,9/26/2021,13:00,-5,Cleveland,Cleveland Browns,26,Chicago Bears,6
+2021,3,9/26/2021,13:00,-5,Detroit,Detroit Lions,17,Baltimore Ravens,19
+2021,3,9/26/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,19,Arizona Cardinals,31
+2021,3,9/26/2021,13:00,-5,Foxborough,New England Patriots,13,New Orleans Saints,28
+2021,3,9/26/2021,13:00,-5,East Rutherford,New York Giants,14,Atlanta Falcons,17
+2021,3,9/26/2021,13:00,-5,Pittsburgh,Pittsburgh Steelers,10,Cincinnati Bengals,24
+2021,3,9/26/2021,12:00,-6,Kansas City,Kansas City Chiefs,24,Los Angeles Chargers,30
+2021,3,9/26/2021,12:00,-6,Nashville,Tennessee Titans,25,Indianapolis Colts,16
+2021,3,9/26/2021,14:05,-7,Denver,Denver Broncos,26,New York Jets,0
+2021,3,9/26/2021,13:05,-8,Las Vegas,Las Vegas Raiders,31,Miami Dolphins,28
+2021,3,9/26/2021,13:25,-8,Inglewood,Los Angeles Rams,34,Tampa Bay Buccaneers,24
+2021,3,9/26/2021,15:25,-6,Minneapolis,Minnesota Vikings,30,Seattle Seahawks,17
+2021,3,9/26/2021,17:20,-8,Santa Clara,San Francisco 49ers,28,Green Bay Packers,30
+2021,3,9/27/2021,19:15,-6,Arlington,Dallas Cowboys,41,Philadelphia Eagles,21
+2021,4,9/30/2021,20:20,-5,Cincinnati,Cincinnati Bengals,24,Jacksonville Jaguars,21
+2021,4,10/3/2021,13:00,-5,Atlanta,Atlanta Falcons,30,Washington Football Team,34
+2021,4,10/3/2021,13:00,-5,Orchard Park,Buffalo Bills,40,Houston Texans,0
+2021,4,10/3/2021,12:00,-6,Chicago,Chicago Bears,24,Detroit Lions,14
+2021,4,10/3/2021,12:00,-6,Arlington,Dallas Cowboys,36,Carolina Panthers,28
+2021,4,10/3/2021,13:00,-5,Miami Gardens,Miami Dolphins,17,Indianapolis Colts,27
+2021,4,10/3/2021,12:00,-6,Minneapolis,Minnesota Vikings,7,Cleveland Browns,14
+2021,4,10/3/2021,12:00,-6,New Orleans,New Orleans Saints,21,New York Giants,27
+2021,4,10/3/2021,13:00,-5,East Rutherford,New York Jets,27,Tennessee Titans,24
+2021,4,10/3/2021,13:00,-5,Philadelphia,Philadelphia Eagles,30,Kansas City Chiefs,42
+2021,4,10/3/2021,13:05,-8,Inglewood,Los Angeles Rams,20,Arizona Cardinals,37
+2021,4,10/3/2021,14:25,-7,Denver,Denver Broncos,7,Baltimore Ravens,23
+2021,4,10/3/2021,15:25,-6,Green Bay,Green Bay Packers,27,Pittsburgh Steelers,17
+2021,4,10/3/2021,20:20,-5,Foxborough,New England Patriots,17,Tampa Bay Buccaneers,19
+2021,4,10/3/2021,13:05,-8,Santa Clara,San Francisco 49ers,21,Seattle Seahawks,28
+2021,4,10/4/2021,17:15,-8,Inglewood,Los Angeles Chargers,28,Las Vegas Raiders,14
+2021,5,10/7/2021,17:20,-8,Seattle,Seattle Seahawks,17,Los Angeles Rams,26
+2021,5,10/10/2021,13:00,-5,Cincinnati,Cincinnati Bengals,22,Green Bay Packers,25
+2021,5,10/10/2021,12:00,-6,Houston,Houston Texans,22,New England Patriots,25
+2021,5,10/10/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,19,Tennessee Titans,37
+2021,5,10/10/2021,12:00,-6,Minneapolis,Minnesota Vikings,19,Detroit Lions,17
+2021,5,10/10/2021,13:00,-5,Pittsburgh,Pittsburgh Steelers,27,Denver Broncos,19
+2021,5,10/10/2021,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,45,Miami Dolphins,17
+2021,5,10/10/2021,13:00,-5,Landover,Washington Football Team,22,New Orleans Saints,33
+2021,5,10/10/2021,13:00,-5,Charlotte,Carolina Panthers,18,Philadelphia Eagles,21
+2021,5,10/10/2021,13:05,-8,Las Vegas,Las Vegas Raiders,9,Chicago Bears,20
+2021,5,10/10/2021,13:05,-8,Inglewood,Los Angeles Chargers,47,Cleveland Browns,42
+2021,5,10/10/2021,13:25,-8,Glendale,Arizona Cardinals,17,San Francisco 49ers,10
+2021,5,10/10/2021,15:25,-6,Arlington,Dallas Cowboys,44,New York Giants,20
+2021,5,10/10/2021,19:20,-6,Kansas City,Kansas City Chiefs,20,Buffalo Bills,38
+2021,5,10/10/2021,14:30,0,Tottenham,Atlanta Falcons,27,New York Jets,20
+2021,5,10/11/2021,20:15,-5,Baltimore,Baltimore Ravens,31,Indianapolis Colts,25
+2021,6,10/14/2021,20:20,-5,Philadelphia,Philadelphia Eagles,22,Tampa Bay Buccaneers,28
+2021,6,10/17/2021,13:00,-5,Baltimore,Baltimore Ravens,34,Los Angeles Chargers,6
+2021,6,10/17/2021,13:00,-5,Charlotte,Carolina Panthers,28,Minnesota Vikings,34
+2021,6,10/17/2021,12:00,-6,Chicago,Chicago Bears,14,Green Bay Packers,24
+2021,6,10/17/2021,13:00,-5,Detroit,Detroit Lions,11,Cincinnati Bengals,34
+2021,6,10/17/2021,13:00,-5,Indianapolis,Indianapolis Colts,31,Houston Texans,3
+2021,6,10/17/2021,13:00,-5,East Rutherford,New York Giants,11,Los Angeles Rams,38
+2021,6,10/17/2021,13:00,-5,Landover,Washington Football Team,13,Kansas City Chiefs,31
+2021,6,10/17/2021,16:05,-5,Cleveland,Cleveland Browns,14,Arizona Cardinals,37
+2021,6,10/17/2021,14:25,-7,Denver,Denver Broncos,24,Las Vegas Raiders,34
+2021,6,10/17/2021,16:25,-5,Foxborough,New England Patriots,29,Dallas Cowboys,35
+2021,6,10/17/2021,20:20,-5,Pittsburgh,Pittsburgh Steelers,23,Seattle Seahawks,20
+2021,6,10/17/2021,14:30,0,Tottenham,Jacksonville Jaguars,23,Miami Dolphins,20
+2021,6,10/18/2021,19:15,-6,Nashville,Tennessee Titans,34,Buffalo Bills,31
+2021,7,10/21/2021,20:20,-5,Cleveland,Cleveland Browns,17,Denver Broncos,14
+2021,7,10/24/2021,13:00,-5,Baltimore,Baltimore Ravens,17,Cincinnati Bengals,41
+2021,7,10/24/2021,12:00,-6,Green Bay,Green Bay Packers,24,Washington Football Team,10
+2021,7,10/24/2021,13:00,-5,Miami Gardens,Miami Dolphins,28,Atlanta Falcons,30
+2021,7,10/24/2021,13:00,-5,Foxborough,New England Patriots,54,New York Jets,13
+2021,7,10/24/2021,13:00,-5,East Rutherford,New York Giants,25,Carolina Panthers,3
+2021,7,10/24/2021,12:00,-6,Nashville,Tennessee Titans,27,Kansas City Chiefs,3
+2021,7,10/24/2021,13:05,-8,Las Vegas,Las Vegas Raiders,33,Philadelphia Eagles,22
+2021,7,10/24/2021,13:05,-8,Inglewood,Los Angeles Rams,28,Detroit Lions,19
+2021,7,10/24/2021,13:25,-8,Glendale,Arizona Cardinals,31,Houston Texans,5
+2021,7,10/24/2021,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,38,Chicago Bears,3
+2021,7,10/24/2021,17:20,-8,Santa Clara,San Francisco 49ers,18,Indianapolis Colts,30
+2021,7,10/25/2021,17:15,-8,Seattle,Seattle Seahawks,10,New Orleans Saints,13
+2021,8,10/28/2021,17:20,-8,Glendale,Arizona Cardinals,21,Green Bay Packers,24
+2021,8,10/31/2021,13:00,-5,Atlanta,Atlanta Falcons,13,Carolina Panthers,19
+2021,8,10/31/2021,13:00,-5,Orchard Park,Buffalo Bills,26,Miami Dolphins,11
+2021,8,10/31/2021,12:00,-6,Chicago,Chicago Bears,22,San Francisco 49ers,33
+2021,8,10/31/2021,13:00,-5,Cleveland,Cleveland Browns,10,Pittsburgh Steelers,15
+2021,8,10/31/2021,13:00,-5,Detroit,Detroit Lions,6,Philadelphia Eagles,44
+2021,8,10/31/2021,12:00,-6,Houston,Houston Texans,22,Los Angeles Rams,38
+2021,8,10/31/2021,13:00,-5,East Rutherford,New York Jets,34,Cincinnati Bengals,31
+2021,8,10/31/2021,13:00,-5,Indianapolis,Indianapolis Colts,31,Tennessee Titans,34
+2021,8,10/31/2021,13:05,-8,Inglewood,Los Angeles Chargers,24,New England Patriots,27
+2021,8,10/31/2021,13:05,-8,Seattle,Seattle Seahawks,31,Jacksonville Jaguars,7
+2021,8,10/31/2021,14:25,-7,Denver,Denver Broncos,17,Washington Football Team,10
+2021,8,10/31/2021,15:25,-6,New Orleans,New Orleans Saints,36,Tampa Bay Buccaneers,27
+2021,8,10/31/2021,19:20,-6,Minneapolis,Minnesota Vikings,16,Dallas Cowboys,20
+2021,8,11/1/2021,19:15,-6,Kansas City,Kansas City Chiefs,20,New York Giants,17
+2021,9,11/4/2021,20:20,-5,Indianapolis,Indianapolis Colts,45,New York Jets,30
+2021,9,11/7/2021,13:00,-5,Baltimore,Baltimore Ravens,34,Minnesota Vikings,31
+2021,9,11/7/2021,13:00,-5,Charlotte,Carolina Panthers,6,New England Patriots,24
+2021,9,11/7/2021,13:00,-5,Cincinnati,Cincinnati Bengals,16,Cleveland Browns,41
+2021,9,11/7/2021,12:00,-6,Arlington,Dallas Cowboys,16,Denver Broncos,30
+2021,9,11/7/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,9,Buffalo Bills,6
+2021,9,11/7/2021,13:00,-5,Miami Gardens,Miami Dolphins,17,Houston Texans,9
+2021,9,11/7/2021,12:00,-6,New Orleans,New Orleans Saints,25,Atlanta Falcons,27
+2021,9,11/7/2021,13:00,-5,East Rutherford,New York Giants,23,Las Vegas Raiders,16
+2021,9,11/7/2021,16:05,-5,Philadelphia,Philadelphia Eagles,24,Los Angeles Chargers,27
+2021,9,11/7/2021,15:25,-6,Kansas City,Kansas City Chiefs,13,Green Bay Packers,7
+2021,9,11/7/2021,13:25,-8,Santa Clara,San Francisco 49ers,17,Arizona Cardinals,31
+2021,9,11/7/2021,17:20,-8,Inglewood,Los Angeles Rams,16,Tennessee Titans,28
+2021,9,11/8/2021,20:15,-5,Pittsburgh,Pittsburgh Steelers,29,Chicago Bears,27
+2021,10,11/11/2021,20:20,-5,Miami Gardens,Miami Dolphins,22,Baltimore Ravens,10
+2021,10,11/14/2021,13:00,-5,Landover,Washington Football Team,29,Tampa Bay Buccaneers,19
+2021,10,11/14/2021,12:00,-6,Arlington,Dallas Cowboys,43,Atlanta Falcons,3
+2021,10,11/14/2021,13:00,-5,Indianapolis,Indianapolis Colts,23,Jacksonville Jaguars,17
+2021,10,11/14/2021,13:00,-5,Foxborough,New England Patriots,45,Cleveland Browns,7
+2021,10,11/14/2021,13:00,-5,East Rutherford,New York Jets,17,Buffalo Bills,45
+2021,10,11/14/2021,13:00,-5,Pittsburgh,Pittsburgh Steelers,16,Detroit Lions,16
+2021,10,11/14/2021,12:00,-6,Nashville,Tennessee Titans,23,New Orleans Saints,21
+2021,10,11/14/2021,14:05,-7,Glendale,Arizona Cardinals,10,Carolina Panthers,34
+2021,10,11/14/2021,13:05,-8,Inglewood,Los Angeles Chargers,20,Minnesota Vikings,27
+2021,10,11/14/2021,14:25,-7,Denver,Denver Broncos,13,Philadelphia Eagles,30
+2021,10,11/14/2021,15:25,-6,Green Bay,Green Bay Packers,17,Seattle Seahawks,0
+2021,10,11/15/2021,17:15,-8,Santa Clara,San Francisco 49ers,31,Los Angeles Rams,10
+2021,11,11/18/2021,20:20,-5,Atlanta,Atlanta Falcons,0,New England Patriots,25
+2021,11,11/21/2021,13:00,-5,Orchard Park,Buffalo Bills,15,Indianapolis Colts,41
+2021,11,11/21/2021,13:00,-5,Charlotte,Carolina Panthers,21,Washington Football Team,27
+2021,11,11/21/2021,12:00,-6,Chicago,Chicago Bears,13,Baltimore Ravens,16
+2021,11,11/21/2021,13:00,-5,Cleveland,Cleveland Browns,13,Detroit Lions,10
+2021,11,11/21/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,10,San Francisco 49ers,30
+2021,11,11/21/2021,12:00,-6,Minneapolis,Minnesota Vikings,34,Green Bay Packers,31
+2021,11,11/21/2021,13:00,-5,East Rutherford,New York Jets,17,Miami Dolphins,24
+2021,11,11/21/2021,13:00,-5,Philadelphia,Philadelphia Eagles,40,New Orleans Saints,29
+2021,11,11/21/2021,12:00,-6,Nashville,Tennessee Titans,13,Houston Texans,22
+2021,11,11/21/2021,13:05,-8,Las Vegas,Las Vegas Raiders,13,Cincinnati Bengals,32
+2021,11,11/21/2021,15:25,-6,Kansas City,Kansas City Chiefs,19,Dallas Cowboys,9
+2021,11,11/21/2021,13:25,-8,Seattle,Seattle Seahawks,13,Arizona Cardinals,23
+2021,11,11/21/2021,17:20,-8,Inglewood,Los Angeles Chargers,41,Pittsburgh Steelers,37
+2021,11,11/22/2021,20:15,-5,Tampa Bay,Tampa Bay Buccaneers,30,New York Giants,10
+2021,12,11/25/2021,12:30,-5,Detroit,Detroit Lions,14,Chicago Bears,16
+2021,12,11/25/2021,15:30,-6,Arlington,Dallas Cowboys,33,Las Vegas Raiders,36
+2021,12,11/25/2021,19:20,-6,New Orleans,New Orleans Saints,6,Buffalo Bills,31
+2021,12,11/28/2021,13:00,-5,Cincinnati,Cincinnati Bengals,41,Pittsburgh Steelers,10
+2021,12,11/28/2021,12:00,-6,Houston,Houston Texans,14,New York Jets,21
+2021,12,11/28/2021,13:00,-5,Indianapolis,Indianapolis Colts,31,Tampa Bay Buccaneers,38
+2021,12,11/28/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,14,Atlanta Falcons,21
+2021,12,11/28/2021,13:00,-5,Miami Gardens,Miami Dolphins,33,Carolina Panthers,10
+2021,12,11/28/2021,13:00,-5,Foxborough,New England Patriots,36,Tennessee Titans,13
+2021,12,11/28/2021,13:00,-5,East Rutherford,New York Giants,13,Philadelphia Eagles,7
+2021,12,11/28/2021,14:05,-7,Denver,Denver Broncos,28,Los Angeles Chargers,13
+2021,12,11/28/2021,15:25,-6,Green Bay,Green Bay Packers,36,Los Angeles Rams,28
+2021,12,11/28/2021,13:25,-8,Santa Clara,San Francisco 49ers,34,Minnesota Vikings,26
+2021,12,11/28/2021,20:20,-5,Baltimore,Baltimore Ravens,16,Cleveland Browns,10
+2021,12,11/29/2021,20:15,-5,Landover,Washington Football Team,17,Seattle Seahawks,15
+2021,13,12/2/2021,19:20,-6,New Orleans,New Orleans Saints,17,Dallas Cowboys,27
+2021,13,12/5/2021,13:00,-5,Atlanta,Atlanta Falcons,17,Tampa Bay Buccaneers,30
+2021,13,12/5/2021,12:00,-6,Chicago,Chicago Bears,22,Arizona Cardinals,33
+2021,13,12/5/2021,13:00,-5,Cincinnati,Cincinnati Bengals,22,Los Angeles Chargers,41
+2021,13,12/5/2021,13:00,-5,Detroit,Detroit Lions,29,Minnesota Vikings,27
+2021,13,12/5/2021,12:00,-6,Houston,Houston Texans,0,Indianapolis Colts,31
+2021,13,12/5/2021,19:20,-6,Kansas City,Kansas City Chiefs,22,Denver Broncos,9
+2021,13,12/5/2021,13:00,-5,Miami Gardens,Miami Dolphins,20,New York Giants,9
+2021,13,12/5/2021,13:00,-5,East Rutherford,New York Jets,18,Philadelphia Eagles,33
+2021,13,12/5/2021,13:05,-8,Las Vegas,Las Vegas Raiders,15,Washington Football Team,17
+2021,13,12/5/2021,16:25,-5,Pittsburgh,Pittsburgh Steelers,20,Baltimore Ravens,19
+2021,13,12/5/2021,13:05,-8,Inglewood,Los Angeles Rams,37,Jacksonville Jaguars,7
+2021,13,12/5/2021,13:25,-8,Seattle,Seattle Seahawks,30,San Francisco 49ers,23
+2021,13,12/6/2021,20:15,-5,Orchard Park,Buffalo Bills,10,New England Patriots,14
+2021,14,12/9/2021,19:20,-6,Minneapolis,Minnesota Vikings,36,Pittsburgh Steelers,28
+2021,14,12/12/2021,13:00,-5,Charlotte,Carolina Panthers,21,Atlanta Falcons,29
+2021,14,12/12/2021,16:25,-5,Cincinnati,Cincinnati Bengals,23,San Francisco 49ers,26
+2021,14,12/12/2021,13:00,-5,Cleveland,Cleveland Browns,24,Baltimore Ravens,22
+2021,14,12/12/2021,12:00,-6,Houston,Houston Texans,13,Seattle Seahawks,33
+2021,14,12/12/2021,12:00,-6,Kansas City,Kansas City Chiefs,48,Las Vegas Raiders,9
+2021,10,11/14/2021,17:20,-8,Las Vegas,Las Vegas Raiders,14,Kansas City Chiefs,41
+2021,14,12/12/2021,13:00,-5,East Rutherford,New York Jets,9,New Orleans Saints,30
+2021,14,12/12/2021,12:00,-6,Nashville,Tennessee Titans,20,Jacksonville Jaguars,0
+2021,14,12/12/2021,13:00,-5,Landover,Washington Football Team,20,Dallas Cowboys,27
+2021,14,12/12/2021,14:05,-7,Denver,Denver Broncos,38,Detroit Lions,10
+2021,14,12/12/2021,13:05,-8,Inglewood,Los Angeles Chargers,37,New York Giants,21
+2021,14,12/12/2021,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,33,Buffalo Bills,27
+2021,14,12/12/2021,19:20,-6,Green Bay,Green Bay Packers,45,Chicago Bears,30
+2021,14,12/13/2021,18:15,-7,Glendale,Arizona Cardinals,23,Los Angeles Rams,30
+2021,15,12/16/2021,17:20,-8,Inglewood,Los Angeles Chargers,28,Kansas City Chiefs,34
+2021,15,12/19/2021,13:00,-5,Orchard Park,Buffalo Bills,31,Carolina Panthers,14
+2021,15,12/20/2021,17:00,-5,Cleveland,Cleveland Browns,14,Las Vegas Raiders,16
+2021,15,12/18/2021,20:15,-5,Indianapolis,Indianapolis Colts,27,New England Patriots,17
+2021,15,12/19/2021,13:00,-5,Miami Gardens,Miami Dolphins,31,New York Jets,24
+2021,15,12/21/2021,19:00,-5,Philadelphia,Philadelphia Eagles,27,Washington Football Team,17
+2021,15,12/19/2021,16:25,-5,Baltimore,Baltimore Ravens,30,Green Bay Packers,31
+2021,15,12/19/2021,13:00,-5,Detroit,Detroit Lions,30,Arizona Cardinals,12
+2021,15,12/19/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,16,Houston Texans,30
+2021,15,12/19/2021,13:00,-5,East Rutherford,New York Giants,6,Dallas Cowboys,21
+2021,15,12/19/2021,13:00,-5,Pittsburgh,Pittsburgh Steelers,19,Tennessee Titans,13
+2021,15,12/19/2021,14:05,-7,Denver,Denver Broncos,10,Cincinnati Bengals,15
+2021,15,12/19/2021,13:05,-8,Santa Clara,San Francisco 49ers,31,Atlanta Falcons,13
+2021,15,12/21/2021,16:00,-8,Inglewood,Los Angeles Rams,20,Seattle Seahawks,10
+2021,15,12/19/2021,20:20,-5,Tampa Bay,Tampa Bay Buccaneers,0,New Orleans Saints,9
+2021,15,12/20/2021,19:15,-6,Chicago,Chicago Bears,9,Minnesota Vikings,17
+2021,16,12/23/2021,19:20,-6,Nashville,Tennessee Titans,20,San Francisco 49ers,17
+2021,16,12/25/2021,18:15,-7,Glendale,Arizona Cardinals,16,Indianapolis Colts,22
+2021,16,12/25/2021,15:30,-6,Green Bay,Green Bay Packers,24,Cleveland Browns,22
+2021,16,12/26/2021,13:00,-5,Atlanta,Atlanta Falcons,20,Detroit Lions,16
+2021,16,12/26/2021,13:00,-5,Charlotte,Carolina Panthers,6,Tampa Bay Buccaneers,32
+2021,16,12/26/2021,12:00,-6,Minneapolis,Minnesota Vikings,23,Los Angeles Rams,30
+2021,16,12/26/2021,13:00,-5,Foxborough,New England Patriots,21,Buffalo Bills,33
+2021,16,12/26/2021,13:00,-5,East Rutherford,New York Jets,26,Jacksonville Jaguars,21
+2021,16,12/26/2021,13:00,-5,Philadelphia,Philadelphia Eagles,34,New York Giants,10
+2021,16,12/26/2021,13:00,-5,Cincinnati,Cincinnati Bengals,41,Baltimore Ravens,21
+2021,16,12/26/2021,13:05,-8,Seattle,Seattle Seahawks,24,Chicago Bears,25
+2021,16,12/26/2021,15:25,-6,Kansas City,Kansas City Chiefs,36,Pittsburgh Steelers,10
+2021,16,12/26/2021,13:25,-8,Las Vegas,Las Vegas Raiders,17,Denver Broncos,13
+2021,16,12/26/2021,19:20,-6,Arlington,Dallas Cowboys,56,Washington Football Team,14
+2021,16,12/27/2021,19:15,-6,New Orleans,New Orleans Saints,3,Miami Dolphins,20
+2021,16,12/26/2021,12:00,-6,Houston,Houston Texans,41,Los Angeles Chargers,29
+2021,17,1/2/2022,13:00,-5,Orchard Park,Buffalo Bills,29,Atlanta Falcons,15
+2021,17,1/2/2022,12:00,-6,Chicago,Chicago Bears,29,New York Giants,3
+2021,17,1/2/2022,15:25,-6,Arlington,Dallas Cowboys,22,Arizona Cardinals,25
+2021,17,1/2/2022,13:00,-5,Indianapolis,Indianapolis Colts,20,Las Vegas Raiders,23
+2021,17,1/2/2022,15:25,-6,New Orleans,New Orleans Saints,18,Carolina Panthers,10
+2021,17,1/2/2022,13:00,-5,East Rutherford,New York Jets,24,Tampa Bay Buccaneers,28
+2021,17,1/2/2022,12:00,-6,Nashville,Tennessee Titans,34,Miami Dolphins,3
+2021,17,1/2/2022,13:00,-5,Landover,Washington Football Team,16,Philadelphia Eagles,20
+2021,17,1/2/2022,13:00,-5,Cincinnati,Cincinnati Bengals,34,Kansas City Chiefs,31
+2021,17,1/2/2022,13:00,-5,Foxborough,New England Patriots,50,Jacksonville Jaguars,10
+2021,17,1/2/2022,13:05,-8,Inglewood,Los Angeles Chargers,34,Denver Broncos,13
+2021,17,1/2/2022,13:05,-8,Santa Clara,San Francisco 49ers,23,Houston Texans,7
+2021,17,1/2/2022,13:00,-5,Baltimore,Baltimore Ravens,19,Los Angeles Rams,20
+2021,17,1/2/2022,13:25,-8,Seattle,Seattle Seahawks,51,Detroit Lions,29
+2021,17,1/2/2022,19:20,-6,Green Bay,Green Bay Packers,37,Minnesota Vikings,10
+2021,17,1/3/2022,20:15,-5,Pittsburgh,Pittsburgh Steelers,26,Cleveland Browns,14
+2021,18,1/9/2022,16:25,-5,Atlanta,Atlanta Falcons,20,New Orleans Saints,30
+2021,18,1/9/2022,13:00,-5,Baltimore,Baltimore Ravens,13,Pittsburgh Steelers,16
+2021,18,1/9/2022,16:25,-5,Orchard Park,Buffalo Bills,27,New York Jets,10
+2021,18,1/9/2022,13:00,-5,Cleveland,Cleveland Browns,21,Cincinnati Bengals,16
+2021,18,1/9/2022,13:00,-5,Detroit,Detroit Lions,37,Green Bay Packers,30
+2021,18,1/9/2022,12:00,-6,Houston,Houston Texans,25,Tennessee Titans,28
+2021,18,1/9/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,26,Indianapolis Colts,11
+2021,18,1/9/2022,16:25,-5,Miami Gardens,Miami Dolphins,33,New England Patriots,24
+2021,18,1/9/2022,12:00,-6,Minneapolis,Minnesota Vikings,31,Chicago Bears,17
+2021,18,1/8/2022,20:15,-5,Philadelphia,Philadelphia Eagles,26,Dallas Cowboys,51
+2021,18,1/9/2022,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,41,Carolina Panthers,17
+2021,18,1/9/2022,13:00,-5,East Rutherford,New York Giants,7,Washington Football Team,22
+2021,18,1/9/2022,14:25,-7,Glendale,Arizona Cardinals,30,Seattle Seahawks,38
+2021,18,1/8/2022,14:30,-7,Denver,Denver Broncos,24,Kansas City Chiefs,28
+2021,18,1/9/2022,17:20,-8,Las Vegas,Las Vegas Raiders,35,Los Angeles Chargers,32
+2021,18,1/9/2022,13:25,-8,Inglewood,Los Angeles Rams,24,San Francisco 49ers,27
+2022,1,9/8/2022,17:20,-8,Inglewood,Los Angeles Rams,10,Buffalo Bills,31
+2022,1,9/11/2022,12:00,-6,Chicago,Chicago Bears,19,San Francisco 49ers,10
+2022,1,9/12/2022,17:15,-8,Seattle,Seattle Seahawks,17,Denver Broncos,16
+2022,1,9/11/2022,13:00,-5,Charlotte,Carolina Panthers,24,Cleveland Browns,26
+2022,1,9/11/2022,12:00,-6,Houston,Houston Texans,20,Indianapolis Colts,20
+2022,1,9/11/2022,13:00,-5,Landover,Washington Commanders,28,Jacksonville Jaguars,22
+2022,1,9/11/2022,13:00,-5,Detroit,Detroit Lions,35,Philadelphia Eagles,38
+2022,1,9/11/2022,13:00,-5,Miami Gardens,Miami Dolphins,20,New England Patriots,7
+2022,1,9/11/2022,13:00,-5,East Rutherford,New York Jets,9,Baltimore Ravens,24
+2022,1,9/11/2022,13:00,-5,Atlanta,Atlanta Falcons,26,New Orleans Saints,27
+2022,1,9/11/2022,13:00,-5,Cincinnati,Cincinnati Bengals,20,Pittsburgh Steelers,23
+2022,1,9/11/2022,13:25,-8,Glendale,Arizona Cardinals,21,Kansas City Chiefs,44
+2022,1,9/11/2022,15:25,-6,Nashville,Tennessee Titans,20,New York Giants,21
+2022,1,9/11/2022,15:25,-6,Minneapolis,Minnesota Vikings,23,Green Bay Packers,7
+2022,1,9/11/2022,13:25,-8,Inglewood,Los Angeles Chargers,24,Las Vegas Raiders,19
+2022,1,9/11/2022,19:20,-6,Arlington,Dallas Cowboys,3,Tampa Bay Buccaneers,19
+2022,2,9/15/2022,19:15,-6,Kansas City,Kansas City Chiefs,27,Los Angeles Chargers,24
+2022,2,9/18/2022,12:00,-6,New Orleans,New Orleans Saints,10,Tampa Bay Buccaneers,20
+2022,2,9/18/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,24,Indianapolis Colts,0
+2022,2,9/18/2022,13:00,-5,Detroit,Detroit Lions,36,Washington Commanders,27
+2022,2,9/18/2022,13:00,-5,Baltimore,Baltimore Ravens,38,Miami Dolphins,42
+2022,2,9/18/2022,13:00,-5,Cleveland,Cleveland Browns,30,New York Jets,31
+2022,2,9/18/2022,13:00,-5,East Rutherford,New York Giants,19,Carolina Panthers,16
+2022,2,9/18/2022,13:00,-5,Pittsburgh,Pittsburgh Steelers,14,New England Patriots,17
+2022,2,9/18/2022,13:05,-8,Inglewood,Los Angeles Rams,31,Atlanta Falcons,27
+2022,2,9/18/2022,13:05,-8,Santa Clara,San Francisco 49ers,27,Seattle Seahawks,7
+2022,2,9/18/2022,15:25,-6,Arlington,Dallas Cowboys,20,Cincinnati Bengals,17
+2022,2,9/18/2022,13:25,-8,Las Vegas,Las Vegas Raiders,23,Arizona Cardinals,29
+2022,2,9/18/2022,14:25,-7,Denver,Denver Broncos,16,Houston Texans,9
+2022,2,9/18/2022,19:20,-6,Green Bay,Green Bay Packers,27,Chicago Bears,10
+2022,5,10/9/2022,13:00,-5,Landover,Washington Commanders,17,Tennessee Titans,21
+2022,2,9/19/2022,19:15,-5,Orchard Park,Buffalo Bills,41,Tennessee Titans,7
+2022,2,9/19/2022,20:30,-5,Philadelphia,Philadelphia Eagles,24,Minnesota Vikings,7
+2022,3,9/22/2022,20:15,-5,Cleveland,Cleveland Browns,29,Pittsburgh Steelers,17
+2022,3,9/25/2022,13:00,-5,East Rutherford,New York Jets,12,Cincinnati Bengals,27
+2022,3,9/25/2022,13:00,-5,Miami Gardens,Miami Dolphins,21,Buffalo Bills,19
+2022,3,9/25/2022,13:00,-5,Indianapolis,Indianapolis Colts,20,Kansas City Chiefs,17
+2022,3,9/25/2022,13:00,-5,Landover,Washington Commanders,8,Philadelphia Eagles,24
+2022,3,9/25/2022,12:00,-6,Minneapolis,Minnesota Vikings,28,Detroit Lions,24
+2022,3,9/25/2022,12:00,-6,Nashville,Tennessee Titans,24,Las Vegas Raiders,22
+2022,3,9/25/2022,13:00,-5,Foxborough,New England Patriots,26,Baltimore Ravens,37
+2022,3,9/25/2022,13:00,-5,Charlotte,Carolina Panthers,22,New Orleans Saints,14
+2022,3,9/25/2022,12:00,-6,Chicago,Chicago Bears,23,Houston Texans,20
+2022,3,9/25/2022,13:05,-8,Inglewood,Los Angeles Chargers,10,Jacksonville Jaguars,38
+2022,3,9/25/2022,13:25,-8,Seattle,Seattle Seahawks,23,Atlanta Falcons,27
+2022,3,9/25/2022,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,12,Green Bay Packers,14
+2022,3,9/25/2022,13:25,-8,Glendale,Arizona Cardinals,12,Los Angeles Rams,20
+2022,3,9/25/2022,18:20,-7,Denver,Denver Broncos,11,San Francisco 49ers,10
+2022,3,9/26/2022,20:15,-5,East Rutherford,New York Giants,16,Dallas Cowboys,23
+2022,4,9/29/2022,20:15,-5,Cincinnati,Cincinnati Bengals,27,Miami Dolphins,15
+2022,4,10/2/2022,13:00,-5,East Rutherford,New York Giants,20,Chicago Bears,12
+2022,4,10/2/2022,13:00,-5,Baltimore,Baltimore Ravens,20,Buffalo Bills,23
+2022,4,10/2/2022,13:00,-5,Atlanta,Atlanta Falcons,23,Cleveland Browns,20
+2022,4,10/2/2022,12:00,-6,Houston,Houston Texans,24,Los Angeles Chargers,34
+2022,4,10/2/2022,12:00,-6,Arlington,Dallas Cowboys,25,Washington Commanders,10
+2022,4,10/2/2022,13:00,-5,Philadelphia,Philadelphia Eagles,29,Jacksonville Jaguars,21
+2022,4,10/2/2022,13:00,-5,Pittsburgh,Pittsburgh Steelers,20,New York Jets,24
+2022,4,10/2/2022,13:00,-5,Detroit,Detroit Lions,45,Seattle Seahawks,48
+2022,4,10/2/2022,13:00,-5,Indianapolis,Indianapolis Colts,17,Tennessee Titans,24
+2022,4,10/2/2022,16:05,-5,Charlotte,Carolina Panthers,16,Arizona Cardinals,26
+2022,4,10/2/2022,13:25,-8,Las Vegas,Las Vegas Raiders,32,Denver Broncos,23
+2022,4,10/2/2022,15:25,-6,Green Bay,Green Bay Packers,27,New England Patriots,24
+2022,4,10/3/2022,17:15,-8,Santa Clara,San Francisco 49ers,24,Los Angeles Rams,9
+2022,4,10/2/2022,20:20,-5,Tampa Bay,Tampa Bay Buccaneers,31,Kansas City Chiefs,41
+2022,5,10/6/2022,18:15,-7,Denver,Denver Broncos,9,Indianapolis Colts,12
+2022,5,10/9/2022,12:00,-6,Minneapolis,Minnesota Vikings,29,Chicago Bears,22
+2022,5,10/9/2022,13:00,-5,Cleveland,Cleveland Browns,28,Los Angeles Chargers,30
+2022,5,10/9/2022,13:00,-5,East Rutherford,New York Jets,40,Miami Dolphins,17
+2022,5,10/9/2022,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,21,Atlanta Falcons,15
+2022,5,10/9/2022,13:00,-5,Foxborough,New England Patriots,29,Detroit Lions,0
+2022,5,10/9/2022,12:00,-6,New Orleans,New Orleans Saints,39,Seattle Seahawks,32
+2022,5,10/9/2022,13:00,-5,Orchard Park,Buffalo Bills,38,Pittsburgh Steelers,3
+2022,5,10/9/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,6,Houston Texans,13
+2022,5,10/9/2022,16:05,-5,Charlotte,Carolina Panthers,15,San Francisco 49ers,37
+2022,5,10/9/2022,13:25,-8,Inglewood,Los Angeles Rams,10,Dallas Cowboys,22
+2022,5,10/9/2022,13:25,-8,Glendale,Arizona Cardinals,17,Philadelphia Eagles,20
+2022,5,10/9/2022,20:20,-5,Baltimore,Baltimore Ravens,19,Cincinnati Bengals,17
+2022,5,10/10/2022,19:15,-6,Kansas City,Kansas City Chiefs,30,Las Vegas Raiders,29
+2022,6,10/13/2022,19:15,-6,Chicago,Chicago Bears,7,Washington Commanders,12
+2022,6,10/16/2022,13:00,-5,Atlanta,Atlanta Falcons,28,San Francisco 49ers,14
+2022,6,10/16/2022,12:00,-6,New Orleans,New Orleans Saints,26,Cincinnati Bengals,30
+2022,6,10/16/2022,13:00,-5,Pittsburgh,Pittsburgh Steelers,20,Tampa Bay Buccaneers,18
+2022,6,10/16/2022,13:00,-5,Indianapolis,Indianapolis Colts,34,Jacksonville Jaguars,27
+2022,6,10/16/2022,13:00,-5,Cleveland,Cleveland Browns,15,New England Patriots,38
+2022,6,10/16/2022,13:00,-5,East Rutherford,New York Giants,24,Baltimore Ravens,20
+2022,6,10/16/2022,13:00,-5,Miami Gardens,Miami Dolphins,16,Minnesota Vikings,24
+2022,6,10/16/2022,13:05,-8,Seattle,Seattle Seahawks,19,Arizona Cardinals,9
+2022,6,10/16/2022,13:05,-8,Inglewood,Los Angeles Rams,24,Carolina Panthers,10
+2022,6,10/16/2022,15:25,-6,Kansas City,Kansas City Chiefs,20,Buffalo Bills,24
+2022,6,10/16/2022,20:20,-5,Philadelphia,Philadelphia Eagles,26,Dallas Cowboys,17
+2022,6,10/17/2022,17:15,-8,Inglewood,Los Angeles Chargers,19,Denver Broncos,16
+2022,7,10/20/2022,17:15,-8,Glendale,Arizona Cardinals,42,New Orleans Saints,34
+2022,7,10/23/2022,13:00,-5,Baltimore,Baltimore Ravens,23,Cleveland Browns,20
+2022,7,10/23/2022,13:00,-5,Charlotte,Carolina Panthers,21,Tampa Bay Buccaneers,3
+2022,7,10/23/2022,12:00,-6,Nashville,Tennessee Titans,19,Indianapolis Colts,10
+2022,7,10/23/2022,13:00,-5,Cincinnati,Cincinnati Bengals,35,Atlanta Falcons,17
+2022,7,10/23/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,17,New York Giants,23
+2022,6,10/16/2022,12:00,-6,Green Bay,Green Bay Packers,10,New York Jets,27
+2022,7,10/23/2022,12:00,-6,Arlington,Dallas Cowboys,24,Detroit Lions,6
+2022,7,10/23/2022,13:00,-5,Landover,Washington Commanders,23,Green Bay Packers,21
+2022,15,12/17/2022,16:30,-5,Cleveland,Cleveland Browns,13,Baltimore Ravens,3
+2022,7,10/23/2022,14:05,-7,Denver,Denver Broncos,9,New York Jets,16
+2022,7,10/23/2022,13:05,-8,Las Vegas,Las Vegas Raiders,38,Houston Texans,20
+2022,7,10/23/2022,13:25,-8,Santa Clara,San Francisco 49ers,23,Kansas City Chiefs,44
+2022,7,10/23/2022,13:25,-8,Inglewood,Los Angeles Chargers,23,Seattle Seahawks,37
+2022,7,10/23/2022,20:20,-5,Miami Gardens,Miami Dolphins,16,Pittsburgh Steelers,10
+2022,7,10/24/2022,20:15,-5,Foxborough,New England Patriots,14,Chicago Bears,33
+2022,8,10/27/2022,20:15,-5,Tampa Bay,Tampa Bay Buccaneers,22,Baltimore Ravens,27
+2022,8,10/30/2022,12:00,-6,Arlington,Dallas Cowboys,49,Chicago Bears,29
+2022,8,10/30/2022,12:00,-6,Minneapolis,Minnesota Vikings,34,Arizona Cardinals,26
+2022,8,10/30/2022,13:00,-5,Detroit,Detroit Lions,27,Miami Dolphins,31
+2022,8,10/30/2022,13:00,-5,Atlanta,Atlanta Falcons,37,Carolina Panthers,34
+2022,8,10/30/2022,13:00,-5,East Rutherford,New York Jets,17,New England Patriots,22
+2022,8,10/30/2022,12:00,-6,New Orleans,New Orleans Saints,24,Las Vegas Raiders,0
+2022,8,10/30/2022,13:00,-5,Philadelphia,Philadelphia Eagles,35,Pittsburgh Steelers,13
+2022,8,10/30/2022,15:05,-6,Houston,Houston Texans,10,Tennessee Titans,17
+2022,8,10/30/2022,13:25,-8,Inglewood,Los Angeles Rams,14,San Francisco 49ers,31
+2022,8,10/30/2022,16:25,-5,Indianapolis,Indianapolis Colts,16,Washington Commanders,17
+2022,8,10/30/2022,13:25,-8,Seattle,Seattle Seahawks,27,New York Giants,13
+2022,8,10/30/2022,20:20,-5,Orchard Park,Buffalo Bills,27,Green Bay Packers,17
+2022,8,10/31/2022,20:15,-5,Cleveland,Cleveland Browns,32,Cincinnati Bengals,13
+2022,9,11/3/2022,19:15,-6,Houston,Houston Texans,17,Philadelphia Eagles,29
+2022,9,11/6/2022,13:00,-5,Atlanta,Atlanta Falcons,17,Los Angeles Chargers,20
+2022,9,11/6/2022,13:00,-5,Foxborough,New England Patriots,26,Indianapolis Colts,3
+2022,9,11/6/2022,12:00,-6,Chicago,Chicago Bears,32,Miami Dolphins,35
+2022,18,1/8/2023,19:20,-6,Green Bay,Green Bay Packers,16,Detroit Lions,20
+2022,9,11/6/2022,13:00,-5,Detroit,Detroit Lions,15,Green Bay Packers,9
+2022,9,11/6/2022,13:00,-5,Cincinnati,Cincinnati Bengals,42,Carolina Panthers,21
+2022,9,11/6/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,27,Las Vegas Raiders,20
+2022,9,11/6/2022,13:00,-5,Landover,Washington Commanders,17,Minnesota Vikings,20
+2022,9,11/6/2022,14:05,-7,Glendale,Arizona Cardinals,21,Seattle Seahawks,31
+2022,9,11/6/2022,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,16,Los Angeles Rams,13
+2022,9,11/6/2022,19:20,-6,Kansas City,Kansas City Chiefs,20,Tennessee Titans,17
+2022,9,11/7/2022,19:15,-6,New Orleans,New Orleans Saints,13,Baltimore Ravens,27
+2022,10,11/10/2022,20:15,-5,Charlotte,Carolina Panthers,25,Atlanta Falcons,15
+2022,10,11/13/2022,12:00,-6,Nashville,Tennessee Titans,17,Denver Broncos,10
+2022,10,11/13/2022,13:00,-5,Miami Gardens,Miami Dolphins,39,Cleveland Browns,17
+2022,10,11/13/2022,12:00,-6,Kansas City,Kansas City Chiefs,27,Jacksonville Jaguars,17
+2022,10,11/13/2022,13:00,-5,Pittsburgh,Pittsburgh Steelers,20,New Orleans Saints,10
+2022,10,11/13/2022,13:00,-5,East Rutherford,New York Giants,24,Houston Texans,16
+2022,10,11/13/2022,13:00,-5,Orchard Park,Buffalo Bills,30,Minnesota Vikings,33
+2022,10,11/13/2022,13:05,-8,Las Vegas,Las Vegas Raiders,20,Indianapolis Colts,25
+2022,10,11/13/2022,13:25,-8,Inglewood,Los Angeles Rams,17,Arizona Cardinals,27
+2022,10,11/13/2022,15:25,-6,Green Bay,Green Bay Packers,31,Dallas Cowboys,28
+2022,10,11/13/2022,17:20,-8,Santa Clara,San Francisco 49ers,22,Los Angeles Chargers,16
+2022,10,11/14/2022,20:15,-5,Philadelphia,Philadelphia Eagles,21,Washington Commanders,32
+2022,11,11/17/2022,19:15,-6,Green Bay,Green Bay Packers,17,Tennessee Titans,27
+2022,11,11/20/2022,13:00,-5,Atlanta,Atlanta Falcons,27,Chicago Bears,24
+2022,11,11/20/2022,13:00,-5,Detroit,Buffalo Bills,31,Cleveland Browns,23
+2022,11,11/20/2022,12:00,-6,Houston,Houston Texans,10,Washington Commanders,23
+2022,11,11/20/2022,13:00,-5,Indianapolis,Indianapolis Colts,16,Philadelphia Eagles,17
+2022,11,11/20/2022,13:00,-5,Foxborough,New England Patriots,10,New York Jets,3
+2022,11,11/20/2022,13:00,-5,East Rutherford,New York Giants,18,Detroit Lions,31
+2022,11,11/20/2022,13:00,-5,Baltimore,Baltimore Ravens,13,Carolina Panthers,3
+2022,11,11/20/2022,12:00,-6,New Orleans,New Orleans Saints,27,Los Angeles Rams,20
+2022,11,11/20/2022,14:05,-7,Denver,Denver Broncos,16,Las Vegas Raiders,22
+2022,11,11/20/2022,17:20,-8,Inglewood,Los Angeles Chargers,27,Kansas City Chiefs,30
+2022,11,11/20/2022,15:25,-6,Minneapolis,Minnesota Vikings,3,Dallas Cowboys,40
+2022,11,11/20/2022,16:25,-5,Pittsburgh,Pittsburgh Steelers,30,Cincinnati Bengals,37
+2022,11,11/21/2022,19:15,-6,Mexico City,Arizona Cardinals,10,San Francisco 49ers,38
+2022,12,11/24/2022,12:30,-5,Detroit,Detroit Lions,25,Buffalo Bills,28
+2022,12,11/24/2022,15:30,-6,Arlington,Dallas Cowboys,28,New York Giants,20
+2022,12,11/24/2022,19:20,-6,Minneapolis,Minnesota Vikings,33,New England Patriots,26
+2022,12,11/27/2022,13:00,-5,East Rutherford,New York Jets,31,Chicago Bears,10
+2022,12,11/27/2022,12:00,-6,Nashville,Tennessee Titans,16,Cincinnati Bengals,20
+2022,12,11/27/2022,13:00,-5,Charlotte,Carolina Panthers,23,Denver Broncos,10
+2022,12,11/27/2022,13:00,-5,Cleveland,Cleveland Browns,23,Tampa Bay Buccaneers,17
+2022,12,11/27/2022,13:00,-5,Landover,Washington Commanders,19,Atlanta Falcons,13
+2022,12,11/27/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,28,Baltimore Ravens,27
+2022,12,11/27/2022,13:00,-5,Miami Gardens,Miami Dolphins,30,Houston Texans,15
+2022,12,11/27/2022,14:05,-7,Glendale,Arizona Cardinals,24,Los Angeles Chargers,25
+2022,12,11/27/2022,13:05,-8,Seattle,Seattle Seahawks,34,Las Vegas Raiders,40
+2022,12,11/27/2022,13:25,-8,Santa Clara,San Francisco 49ers,13,New Orleans Saints,0
+2022,12,11/27/2022,20:20,-5,Philadelphia,Philadelphia Eagles,40,Green Bay Packers,33
+2022,12,11/27/2022,15:25,-6,Kansas City,Kansas City Chiefs,26,Los Angeles Rams,10
+2022,12,11/28/2022,20:15,-5,Indianapolis,Indianapolis Colts,17,Pittsburgh Steelers,24
+2022,13,12/4/2022,13:00,-5,Baltimore,Baltimore Ravens,10,Denver Broncos,9
+2022,13,12/4/2022,12:00,-6,Houston,Houston Texans,14,Cleveland Browns,27
+2022,13,12/4/2022,13:00,-5,East Rutherford,New York Giants,20,Washington Commanders,20
+2022,15,12/18/2022,20:20,-5,Landover,Washington Commanders,12,New York Giants,20
+2022,13,12/4/2022,13:00,-5,Detroit,Detroit Lions,40,Jacksonville Jaguars,14
+2022,13,12/4/2022,12:00,-6,Minneapolis,Minnesota Vikings,27,New York Jets,22
+2022,13,12/4/2022,12:00,-6,Chicago,Chicago Bears,19,Green Bay Packers,28
+2022,13,12/4/2022,13:00,-5,Atlanta,Atlanta Falcons,16,Pittsburgh Steelers,19
+2022,13,12/4/2022,13:00,-5,Philadelphia,Philadelphia Eagles,35,Tennessee Titans,10
+2022,13,12/4/2022,13:05,-8,Santa Clara,San Francisco 49ers,33,Miami Dolphins,17
+2022,13,12/4/2022,13:05,-8,Inglewood,Los Angeles Rams,23,Seattle Seahawks,27
+2022,13,12/4/2022,13:25,-8,Las Vegas,Las Vegas Raiders,27,Los Angeles Chargers,20
+2022,13,12/4/2022,16:25,-5,Cincinnati,Cincinnati Bengals,27,Kansas City Chiefs,24
+2022,13,12/4/2022,19:20,-6,Arlington,Dallas Cowboys,54,Indianapolis Colts,19
+2022,13,12/5/2022,20:15,-5,Tampa Bay,Tampa Bay Buccaneers,17,New Orleans Saints,16
+2022,14,12/8/2022,17:15,-8,Inglewood,Los Angeles Rams,17,Las Vegas Raiders,16
+2022,9,11/6/2022,13:00,-5,East Rutherford,New York Jets,20,Buffalo Bills,17
+2022,14,12/11/2022,13:00,-5,Cincinnati,Cincinnati Bengals,23,Cleveland Browns,10
+2022,15,12/18/2022,12:00,-6,Houston,Houston Texans,24,Kansas City Chiefs,30
+2022,14,12/11/2022,13:00,-5,East Rutherford,New York Giants,22,Philadelphia Eagles,48
+2022,14,12/11/2022,13:00,-5,Orchard Park,Buffalo Bills,20,New York Jets,12
+2022,14,12/11/2022,13:00,-5,Pittsburgh,Pittsburgh Steelers,14,Baltimore Ravens,16
+2022,14,12/11/2022,12:00,-6,Arlington,Dallas Cowboys,27,Houston Texans,23
+2022,14,12/11/2022,12:00,-6,Nashville,Tennessee Titans,22,Jacksonville Jaguars,36
+2022,14,12/11/2022,13:00,-5,Detroit,Detroit Lions,34,Minnesota Vikings,23
+2022,14,12/11/2022,17:20,-8,Inglewood,Los Angeles Chargers,23,Miami Dolphins,17
+2022,14,12/11/2022,13:25,-8,Santa Clara,San Francisco 49ers,35,Tampa Bay Buccaneers,7
+2022,14,12/11/2022,13:25,-8,Seattle,Seattle Seahawks,24,Carolina Panthers,30
+2022,14,12/11/2022,14:05,-7,Denver,Denver Broncos,28,Kansas City Chiefs,34
+2022,14,12/12/2022,18:15,-7,Glendale,Arizona Cardinals,13,New England Patriots,27
+2022,15,12/15/2022,17:15,-8,Seattle,Seattle Seahawks,13,San Francisco 49ers,21
+2022,15,12/17/2022,12:00,-6,Minneapolis,Minnesota Vikings,39,Indianapolis Colts,36
+2022,15,12/18/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,40,Dallas Cowboys,34
+2022,15,12/17/2022,20:15,-5,Orchard Park,Buffalo Bills,32,Miami Dolphins,29
+2022,15,12/18/2022,12:00,-6,Chicago,Chicago Bears,20,Philadelphia Eagles,25
+2022,15,12/18/2022,12:00,-6,New Orleans,New Orleans Saints,21,Atlanta Falcons,18
+2022,15,12/18/2022,13:00,-5,East Rutherford,New York Jets,17,Detroit Lions,20
+2022,15,12/18/2022,13:00,-5,Charlotte,Carolina Panthers,16,Pittsburgh Steelers,24
+2022,15,12/18/2022,14:05,-7,Denver,Denver Broncos,24,Arizona Cardinals,15
+2022,15,12/18/2022,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,23,Cincinnati Bengals,34
+2022,15,12/18/2022,13:25,-8,Inglewood,Los Angeles Chargers,17,Tennessee Titans,14
+2022,15,12/18/2022,13:05,-8,Las Vegas,Las Vegas Raiders,30,New England Patriots,24
+2022,15,12/19/2022,19:15,-6,Green Bay,Green Bay Packers,24,Los Angeles Rams,12
+2022,16,12/22/2022,20:15,-5,East Rutherford,New York Jets,3,Jacksonville Jaguars,19
+2022,16,12/24/2022,15:25,-6,Arlington,Dallas Cowboys,40,Philadelphia Eagles,34
+2022,16,12/24/2022,20:15,-5,Pittsburgh,Pittsburgh Steelers,13,Las Vegas Raiders,10
+2022,16,12/24/2022,13:00,-5,Foxborough,New England Patriots,18,Cincinnati Bengals,22
+2022,16,12/24/2022,12:00,-6,Chicago,Chicago Bears,13,Buffalo Bills,35
+2022,16,12/24/2022,13:00,-5,Baltimore,Baltimore Ravens,17,Atlanta Falcons,9
+2022,16,12/24/2022,12:00,-6,Minneapolis,Minnesota Vikings,27,New York Giants,24
+2022,17,1/1/2023,12:00,-6,Houston,Houston Texans,3,Jacksonville Jaguars,31
+2022,16,12/24/2022,13:00,-5,Charlotte,Carolina Panthers,37,Detroit Lions,23
+2022,16,12/25/2022,13:00,-5,Miami Gardens,Miami Dolphins,20,Green Bay Packers,26
+2022,16,12/24/2022,13:00,-5,Cleveland,Cleveland Browns,10,New Orleans Saints,17
+2022,16,12/24/2022,12:00,-6,Kansas City,Kansas City Chiefs,24,Seattle Seahawks,10
+2022,16,12/24/2022,12:00,-6,Nashville,Tennessee Titans,14,Houston Texans,19
+2022,16,12/24/2022,13:05,-8,Santa Clara,San Francisco 49ers,37,Washington Commanders,20
+2022,16,12/25/2022,13:30,-8,Inglewood,Los Angeles Rams,51,Denver Broncos,14
+2022,16,12/25/2022,18:20,-7,Glendale,Arizona Cardinals,16,Tampa Bay Buccaneers,19
+2022,16,12/26/2022,20:15,-5,Indianapolis,Indianapolis Colts,3,Los Angeles Chargers,20
+2022,17,1/1/2023,13:00,-5,Detroit,Detroit Lions,41,Chicago Bears,10
+2022,17,1/1/2023,12:00,-6,Kansas City,Kansas City Chiefs,27,Denver Broncos,24
+2022,17,1/1/2023,13:00,-5,Landover,Washington Commanders,10,Cleveland Browns,24
+2022,17,1/1/2023,13:00,-5,Atlanta,Atlanta Falcons,20,Arizona Cardinals,19
+2022,17,1/1/2023,13:00,-5,East Rutherford,New York Giants,38,Indianapolis Colts,10
+2022,17,1/1/2023,13:00,-5,Foxborough,New England Patriots,23,Miami Dolphins,21
+2022,10,11/13/2022,12:00,-6,Chicago,Chicago Bears,30,Detroit Lions,31
+2022,17,1/1/2023,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,30,Carolina Panthers,24
+2022,17,1/1/2023,13:00,-5,Philadelphia,Philadelphia Eagles,10,New Orleans Saints,20
+2022,17,1/1/2023,20:20,-5,Baltimore,Baltimore Ravens,13,Pittsburgh Steelers,16
+2022,17,1/1/2023,13:05,-8,Las Vegas,Las Vegas Raiders,34,San Francisco 49ers,37
+2022,17,1/1/2023,13:05,-8,Seattle,Seattle Seahawks,23,New York Jets,6
+2022,17,1/1/2023,15:25,-6,Green Bay,Green Bay Packers,41,Minnesota Vikings,17
+2022,17,1/1/2023,13:25,-8,Inglewood,Los Angeles Chargers,31,Los Angeles Rams,10
+2022,17,1/2/2023,20:30,-5,Cincinnati,Cincinnati Bengals,,Buffalo Bills,
+2022,18,1/8/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,28,Cleveland Browns,14
+2022,18,1/8/2023,13:00,-5,Atlanta,Atlanta Falcons,30,Tampa Bay Buccaneers,17
+2022,18,1/8/2023,13:25,-8,Santa Clara,San Francisco 49ers,38,Arizona Cardinals,13
+2022,18,1/8/2023,14:25,-7,Denver,Denver Broncos,31,Los Angeles Chargers,28
+2022,18,1/7/2023,13:30,-8,Las Vegas,Las Vegas Raiders,13,Kansas City Chiefs,31
+2022,18,1/8/2023,16:25,-5,Landover,Washington Commanders,26,Dallas Cowboys,6
+2022,18,1/8/2023,16:25,-5,Philadelphia,Philadelphia Eagles,22,New York Giants,16
+2022,18,1/7/2023,20:15,-5,Jacksonville,Jacksonville Jaguars,20,Tennessee Titans,16
+2022,18,1/8/2023,13:00,-5,Miami Gardens,Miami Dolphins,11,New York Jets,6
+2022,18,1/8/2023,12:00,-6,New Orleans,New Orleans Saints,7,Carolina Panthers,10
+2022,18,1/8/2023,13:00,-5,Orchard Park,Buffalo Bills,35,New England Patriots,23
+2022,18,1/8/2023,13:25,-8,Seattle,Seattle Seahawks,19,Los Angeles Rams,16
+2022,18,1/8/2023,13:00,-5,Cincinnati,Cincinnati Bengals,27,Baltimore Ravens,16
+2022,18,1/8/2023,13:00,-5,Indianapolis,Indianapolis Colts,31,Houston Texans,32
+2022,18,1/8/2023,12:00,-6,Chicago,Chicago Bears,13,Minnesota Vikings,29
+2022,13,12/1/2022,20:15,-5,Foxborough,New England Patriots,10,Buffalo Bills,24
+2022,17,12/29/2022,19:15,-6,Nashville,Tennessee Titans,13,Dallas Cowboys,27
+2022,4,10/2/2022,14:30,0,Tottenham,New Orleans Saints,25,Minnesota Vikings,28
+2022,5,10/9/2022,14:30,0,Tottenham,Green Bay Packers,22,New York Giants,27
+2022,8,10/30/2022,13:30,-1,Wembley,Jacksonville Jaguars,17,Denver Broncos,21
+2022,10,11/13/2022,15:30,1,Munich,Tampa Bay Buccaneers,21,Seattle Seahawks,16
+2023,1,9/7/2023,19:20,-6,Kansas City,Kansas City Chiefs,20,Detroit Lions,21
+2023,1,9/10/2023,13:00,-5,Atlanta,Atlanta Falcons,24,Carolina Panthers,10
+2023,1,9/10/2023,13:00,-5,Baltimore,Baltimore Ravens,25,Houston Texans,9
+2023,1,9/10/2023,13:00,-5,Cleveland,Cleveland Browns,24,Cincinnati Bengals,3
+2023,1,9/10/2023,13:00,-5,Indianapolis,Indianapolis Colts,21,Jacksonville Jaguars,31
+2023,1,9/10/2023,12:00,-6,Minneapolis,Minnesota Vikings,17,Tampa Bay Buccaneers,20
+2023,1,9/10/2023,12:00,-6,New Orleans,New Orleans Saints,16,Tennessee Titans,15
+2023,1,9/10/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,7,San Francisco 49ers,30
+2023,1,9/10/2023,13:00,-5,Landover,Washington Commanders,20,Arizona Cardinals,16
+2023,1,9/10/2023,15:25,-6,Chicago,Chicago Bears,20,Green Bay Packers,38
+2023,1,9/10/2023,14:25,-7,Denver,Denver Broncos,16,Las Vegas Raiders,17
+2023,1,9/10/2023,13:25,-8,Inglewood,Los Angeles Chargers,34,Miami Dolphins,36
+2023,1,9/10/2023,16:25,-5,Foxborough,New England Patriots,20,Philadelphia Eagles,25
+2023,1,9/10/2023,13:25,-8,Seattle,Seattle Seahawks,13,Los Angeles Rams,30
+2023,1,9/10/2023,20:20,-5,East Rutherford,New York Giants,0,Dallas Cowboys,40
+2023,1,9/11/2023,20:15,-5,East Rutherford,New York Jets,22,Buffalo Bills,16
+2023,2,9/14/2023,20:15,-5,Philadelphia,Philadelphia Eagles,34,Minnesota Vikings,28
+2023,2,9/17/2023,13:00,-5,Atlanta,Atlanta Falcons,25,Green Bay Packers,24
+2023,2,9/17/2023,13:00,-5,Orchard Park,Buffalo Bills,38,Las Vegas Raiders,10
+2023,2,9/17/2023,13:00,-5,Detroit,Detroit Lions,31,Seattle Seahawks,37
+2023,2,9/17/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,9,Kansas City Chiefs,17
+2023,2,9/17/2023,12:00,-6,Houston,Houston Texans,20,Indianapolis Colts,31
+2023,2,9/17/2023,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,27,Chicago Bears,17
+2023,2,9/17/2023,12:00,-6,Nashville,Tennessee Titans,27,Los Angeles Chargers,24
+2023,2,9/17/2023,13:00,-5,Cincinnati,Cincinnati Bengals,24,Baltimore Ravens,27
+2023,2,9/17/2023,13:05,-8,Glendale,Arizona Cardinals,28,New York Giants,31
+2023,2,9/17/2023,13:05,-8,Inglewood,Los Angeles Rams,23,San Francisco 49ers,30
+2023,2,9/17/2023,15:25,-6,Arlington,Dallas Cowboys,30,New York Jets,10
+2023,2,9/17/2023,14:25,-7,Denver,Denver Broncos,33,Washington Commanders,35
+2023,2,9/17/2023,20:20,-5,Foxborough,New England Patriots,17,Miami Dolphins,24
+2023,2,9/18/2023,19:15,-5,Charlotte,Carolina Panthers,17,New Orleans Saints,20
+2023,2,9/18/2023,20:15,-5,Pittsburgh,Pittsburgh Steelers,26,Cleveland Browns,22
+2023,3,9/21/2023,17:15,-8,Santa Clara,San Francisco 49ers,30,New York Giants,12
+2023,3,9/24/2023,12:00,-6,Green Bay,Green Bay Packers,18,New Orleans Saints,17
+2023,3,9/24/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,17,Houston Texans,37
+2023,3,9/24/2023,13:00,-5,Miami Gardens,Miami Dolphins,70,Denver Broncos,20
+2023,3,9/24/2023,12:00,-6,Minneapolis,Minnesota Vikings,24,Los Angeles Chargers,28
+2023,3,9/24/2023,13:00,-5,East Rutherford,New York Jets,10,New England Patriots,15
+2023,3,9/24/2023,13:00,-5,Landover,Washington Commanders,3,Buffalo Bills,37
+2023,3,9/24/2023,13:00,-5,Baltimore,Baltimore Ravens,19,Indianapolis Colts,22
+2023,3,9/24/2023,13:00,-5,Cleveland,Cleveland Browns,27,Tennessee Titans,3
+2023,3,9/24/2023,13:00,-5,Detroit,Detroit Lions,20,Atlanta Falcons,6
+2023,3,9/24/2023,13:05,-8,Seattle,Seattle Seahawks,37,Carolina Panthers,27
+2023,3,9/24/2023,13:25,-8,Glendale,Arizona Cardinals,28,Dallas Cowboys,16
+2023,3,9/24/2023,15:25,-6,Kansas City,Kansas City Chiefs,41,Chicago Bears,10
+2023,3,9/24/2023,17:20,-8,Las Vegas,Las Vegas Raiders,18,Pittsburgh Steelers,23
+2023,3,9/25/2023,19:15,-5,Tampa Bay,Tampa Bay Buccaneers,11,Philadelphia Eagles,25
+2023,3,9/25/2023,20:15,-5,Cincinnati,Cincinnati Bengals,19,Los Angeles Rams,16
+2023,4,9/28/2023,19:15,-6,Green Bay,Green Bay Packers,20,Detroit Lions,34
+2023,4,10/1/2023,14:30,0,Wembley,Jacksonville Jaguars,23,Atlanta Falcons,7
+2023,4,10/1/2023,13:00,-5,Orchard Park,Buffalo Bills,48,Miami Dolphins,20
+2023,4,10/1/2023,13:00,-5,Charlotte,Carolina Panthers,13,Minnesota Vikings,21
+2023,4,10/1/2023,12:00,-6,Houston,Houston Texans,30,Pittsburgh Steelers,6
+2023,4,10/1/2023,12:00,-6,Chicago,Chicago Bears,28,Denver Broncos,31
+2023,4,10/1/2023,13:00,-5,Indianapolis,Indianapolis Colts,23,Los Angeles Rams,29
+2023,4,10/1/2023,12:00,-6,New Orleans,New Orleans Saints,9,Tampa Bay Buccaneers,26
+2023,4,10/1/2023,13:00,-5,Philadelphia,Philadelphia Eagles,34,Washington Commanders,31
+2023,4,10/1/2023,13:00,-5,Cleveland,Cleveland Browns,3,Baltimore Ravens,28
+2023,4,10/1/2023,12:00,-6,Nashville,Tennessee Titans,27,Cincinnati Bengals,3
+2023,4,10/1/2023,13:05,-8,Inglewood,Los Angeles Chargers,24,Las Vegas Raiders,17
+2023,4,10/1/2023,15:25,-6,Arlington,Dallas Cowboys,38,New England Patriots,3
+2023,4,10/1/2023,13:25,-8,Santa Clara,San Francisco 49ers,35,Arizona Cardinals,16
+2023,4,10/1/2023,20:20,-5,East Rutherford,New York Jets,20,Kansas City Chiefs,23
+2023,4,10/2/2023,20:15,-5,East Rutherford,New York Giants,3,Seattle Seahawks,24
+2023,5,10/5/2023,20:15,-5,Landover,Washington Commanders,20,Chicago Bears,40
+2023,5,10/8/2023,14:30,0,Tottenham,Buffalo Bills,20,Jacksonville Jaguars,25
+2023,5,10/8/2023,13:00,-5,Detroit,Detroit Lions,42,Carolina Panthers,24
+2023,5,10/8/2023,13:00,-5,Miami Gardens,Miami Dolphins,31,New York Giants,16
+2023,5,10/8/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,17,Baltimore Ravens,10
+2023,5,10/8/2023,13:00,-5,Atlanta,Atlanta Falcons,21,Houston Texans,19
+2023,5,10/8/2023,13:00,-5,Indianapolis,Indianapolis Colts,23,Tennessee Titans,16
+2023,5,10/8/2023,13:00,-5,Foxborough,New England Patriots,0,New Orleans Saints,34
+2023,5,10/8/2023,13:05,-8,Inglewood,Los Angeles Rams,14,Philadelphia Eagles,23
+2023,5,10/8/2023,13:05,-8,Glendale,Arizona Cardinals,20,Cincinnati Bengals,34
+2023,5,10/8/2023,14:25,-7,Denver,Denver Broncos,21,New York Jets,31
+2023,5,10/8/2023,15:25,-6,Minneapolis,Minnesota Vikings,20,Kansas City Chiefs,27
+2023,5,10/8/2023,17:20,-8,Santa Clara,San Francisco 49ers,42,Dallas Cowboys,10
+2023,5,10/9/2023,17:15,-8,Las Vegas,Las Vegas Raiders,17,Green Bay Packers,13
+2023,6,10/12/2023,19:15,-6,Kansas City,Kansas City Chiefs,19,Denver Broncos,8
+2023,6,10/15/2023,14:30,0,Tottenham,Tennessee Titans,16,Baltimore Ravens,24
+2023,6,10/15/2023,12:00,-6,Chicago,Chicago Bears,13,Minnesota Vikings,19
+2023,6,10/15/2023,13:00,-5,Cleveland,Cleveland Browns,19,San Francisco 49ers,17
+2023,6,10/15/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,37,Indianapolis Colts,20
+2023,6,10/15/2023,13:00,-5,Miami Gardens,Miami Dolphins,42,Carolina Panthers,21
+2023,6,10/15/2023,13:00,-5,Atlanta,Atlanta Falcons,16,Washington Commanders,24
+2023,6,10/15/2023,13:00,-5,Cincinnati,Cincinnati Bengals,17,Seattle Seahawks,13
+2023,6,10/15/2023,12:00,-6,Houston,Houston Texans,20,New Orleans Saints,13
+2023,6,10/15/2023,16:25,-5,Tampa,Tampa Bay Buccaneers,6,Detroit Lions,20
+2023,6,10/15/2023,13:05,-8,Las Vegas,Las Vegas Raiders,21,New England Patriots,17
+2023,6,10/15/2023,16:25,-5,East Rutherford,New York Jets,20,Philadelphia Eagles,14
+2023,6,10/15/2023,13:25,-8,Inglewood,Los Angeles Rams,26,Arizona Cardinals,9
+2023,6,10/15/2023,20:20,-5,Orchard Park,Buffalo Bills,14,New York Giants,9
+2023,6,10/16/2023,17:15,-8,Inglewood,Los Angeles Chargers,17,Dallas Cowboys,20
+2023,7,10/19/2023,19:15,-6,New Orleans,New Orleans Saints,24,Jacksonville Jaguars,31
+2023,7,10/22/2023,13:00,-5,Baltimore,Baltimore Ravens,38,Detroit Lions,6
+2023,7,10/22/2023,13:00,-5,Foxborough,New England Patriots,29,Buffalo Bills,25
+2023,7,10/22/2023,13:00,-5,East Rutherford,New York Giants,14,Washington Commanders,7
+2023,7,10/22/2023,12:00,-6,Chicago,Chicago Bears,30,Las Vegas Raiders,12
+2023,7,10/22/2023,13:00,-5,Indianapolis,Indianapolis Colts,38,Cleveland Browns,39
+2023,7,10/22/2023,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,13,Atlanta Falcons,16
+2023,7,10/22/2023,13:05,-8,Seattle,Seattle Seahawks,20,Arizona Cardinals,10
+2023,7,10/22/2023,13:05,-8,Inglewood,Los Angeles Rams,17,Pittsburgh Steelers,24
+2023,7,10/22/2023,14:25,-7,Denver,Denver Broncos,19,Green Bay Packers,17
+2023,7,10/22/2023,15:25,-6,Kansas City,Kansas City Chiefs,31,Los Angeles Chargers,17
+2023,7,10/22/2023,20:20,-5,Philadelphia,Philadelphia Eagles,31,Miami Dolphins,17
+2023,7,10/23/2023,19:15,-6,Minneapolis,Minnesota Vikings,22,San Francisco 49ers,17
+2023,8,10/26/2023,20:15,-5,Orchard Park,Buffalo Bills,24,Tampa Bay Buccaneers,18
+2023,8,10/29/2023,13:00,-5,Charlotte,Carolina Panthers,15,Houston Texans,13
+2023,8,10/29/2023,12:00,-6,Green Bay,Green Bay Packers,10,Minnesota Vikings,24
+2023,8,10/29/2023,13:00,-5,Miami Gardens,Miami Dolphins,31,New England Patriots,17
+2023,8,10/29/2023,13:00,-5,East Rutherford,New York Giants,10,New York Jets,13
+2023,8,10/29/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,10,Jacksonville Jaguars,20
+2023,8,10/29/2023,13:00,-5,Landover,Washington Commanders,31,Philadelphia Eagles,38
+2023,8,10/29/2023,12:00,-6,Arlington,Dallas Cowboys,43,Los Angeles Rams,20
+2023,8,10/29/2023,13:00,-5,Indianapolis,Indianapolis Colts,27,New Orleans Saints,38
+2023,8,10/29/2023,12:00,-6,Nashville,Tennessee Titans,28,Atlanta Falcons,23
+2023,8,10/29/2023,13:05,-8,Seattle,Seattle Seahawks,24,Cleveland Browns,20
+2023,8,10/29/2023,13:25,-8,Glendale,Arizona Cardinals,24,Baltimore Ravens,31
+2023,8,10/29/2023,14:25,-7,Denver,Denver Broncos,24,Kansas City Chiefs,9
+2023,8,10/29/2023,13:25,-8,Santa Clara,San Francisco 49ers,17,Cincinnati Bengals,31
+2023,8,10/29/2023,17:20,-8,Inglewood,Los Angeles Chargers,30,Chicago Bears,13
+2023,8,10/30/2023,20:15,-5,Detroit,Detroit Lions,26,Las Vegas Raiders,14
+2023,9,11/2/2023,20:15,-5,Pittsburgh,Pittsburgh Steelers,20,Tennessee Titans,16
+2023,9,11/5/2023,15:30,1,Frankfurt,Kansas City Chiefs,21,Miami Dolphins,14
+2023,9,11/5/2023,13:00,-5,Atlanta,Atlanta Falcons,28,Minnesota Vikings,31
+2023,9,11/5/2023,13:00,-5,Baltimore,Baltimore Ravens,37,Seattle Seahawks,3
+2023,9,11/5/2023,12:00,-6,Houston,Houston Texans,39,Tampa Bay Buccaneers,37
+2023,9,11/5/2023,13:00,-5,Foxborough,New England Patriots,17,Washington Commanders,20
+2023,9,11/5/2023,12:00,-6,New Orleans,New Orleans Saints,24,Chicago Bears,17
+2023,9,11/5/2023,13:00,-5,Cleveland,Cleveland Browns,27,Arizona Cardinals,0
+2023,9,11/5/2023,12:00,-6,Green Bay,Green Bay Packers,20,Los Angeles Rams,3
+2023,9,11/5/2023,16:05,-5,Charlotte,Carolina Panthers,13,Indianapolis Colts,27
+2023,9,11/5/2023,13:25,-8,Las Vegas,Las Vegas Raiders,30,New York Giants,6
+2023,9,11/5/2023,16:25,-5,Philadelphia,Philadelphia Eagles,28,Dallas Cowboys,23
+2023,9,11/5/2023,20:20,-5,Cincinnati,Cincinnati Bengals,24,Buffalo Bills,18
+2023,9,11/6/2023,20:15,-5,East Rutherford,New York Jets,6,Los Angeles Chargers,27
+2023,10,11/9/2023,19:15,-6,Chicago,Chicago Bears,16,Carolina Panthers,13
+2023,10,11/12/2023,15:30,1,Frankfurt,New England Patriots,6,Indianapolis Colts,10
+2023,10,11/12/2023,13:00,-5,Baltimore,Baltimore Ravens,31,Cleveland Browns,33
+2023,10,11/12/2023,12:00,-6,Minneapolis,Minnesota Vikings,27,New Orleans Saints,19
+2023,10,11/12/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,23,Green Bay Packers,19
+2023,10,11/12/2023,13:00,-5,Cincinnati,Cincinnati Bengals,27,Houston Texans,30
+2023,10,11/12/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,3,San Francisco 49ers,34
+2023,10,11/12/2023,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,20,Tennessee Titans,6
+2023,10,11/12/2023,14:05,-7,Glendale,Arizona Cardinals,25,Atlanta Falcons,23
+2023,10,11/12/2023,13:05,-8,Inglewood,Los Angeles Chargers,38,Detroit Lions,41
+2023,10,11/12/2023,15:25,-6,Arlington,Dallas Cowboys,49,New York Giants,17
+2023,10,11/12/2023,13:25,-8,Seattle,Seattle Seahawks,29,Washington Commanders,26
+2023,10,11/12/2023,17:20,-8,Las Vegas,Las Vegas Raiders,16,New York Jets,12
+2023,10,11/13/2023,20:15,-5,Orchard Park,Buffalo Bills,22,Denver Broncos,24
+2023,11,11/16/2023,20:15,-5,Baltimore,Baltimore Ravens,34,Cincinnati Bengals,20
+2023,11,11/19/2023,13:00,-5,Charlotte,Carolina Panthers,10,Dallas Cowboys,33
+2023,11,11/19/2023,13:00,-5,Cleveland,Cleveland Browns,13,Pittsburgh Steelers,10
+2023,11,11/19/2023,13:00,-5,Detroit,Detroit Lions,31,Chicago Bears,26
+2023,11,11/19/2023,12:00,-6,Green Bay,Green Bay Packers,23,Los Angeles Chargers,20
+2023,11,11/19/2023,13:00,-5,Miami Gardens,Miami Dolphins,20,Las Vegas Raiders,13
+2023,11,11/19/2023,13:00,-5,Landover,Washington Commanders,19,New York Giants,31
+2023,11,11/19/2023,12:00,-6,Houston,Houston Texans,21,Arizona Cardinals,16
+2023,11,11/19/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,34,Tennessee Titans,14
+2023,11,11/19/2023,16:25,-5,Orchard Park,Buffalo Bills,32,New York Jets,6
+2023,11,11/19/2023,13:25,-8,Inglewood,Los Angeles Rams,17,Seattle Seahawks,16
+2023,11,11/19/2023,13:05,-8,Santa Clara,San Francisco 49ers,27,Tampa Bay Buccaneers,14
+2023,11,11/19/2023,18:20,-7,Denver,Denver Broncos,21,Minnesota Vikings,20
+2023,11,11/20/2023,19:15,-6,Kansas City,Kansas City Chiefs,17,Philadelphia Eagles,21
+2023,12,11/23/2023,12:30,-5,Detroit,Detroit Lions,22,Green Bay Packers,29
+2023,12,11/23/2023,15:30,-6,Arlington,Dallas Cowboys,45,Washington Commanders,10
+2023,12,11/23/2023,17:20,-8,Seattle,Seattle Seahawks,13,San Francisco 49ers,31
+2023,12,11/24/2023,15:00,-5,East Rutherford,New York Jets,13,Miami Dolphins,34
+2023,12,11/26/2023,13:00,-5,Atlanta,Atlanta Falcons,24,New Orleans Saints,15
+2023,12,11/26/2023,13:00,-5,Cincinnati,Cincinnati Bengals,10,Pittsburgh Steelers,16
+2023,12,11/26/2023,13:00,-5,East Rutherford,New York Giants,10,New England Patriots,7
+2023,12,11/26/2023,12:00,-6,Nashville,Tennessee Titans,17,Carolina Panthers,10
+2023,12,11/26/2023,12:00,-6,Houston,Houston Texans,21,Jacksonville Jaguars,24
+2023,12,11/26/2023,13:00,-5,Indianapolis,Indianapolis Colts,27,Tampa Bay Buccaneers,20
+2023,12,11/26/2023,14:05,-7,Glendale,Arizona Cardinals,14,Los Angeles Rams,37
+2023,12,11/26/2023,14:05,-7,Denver,Denver Broncos,29,Cleveland Browns,12
+2023,12,11/26/2023,13:25,-8,Las Vegas,Las Vegas Raiders,17,Kansas City Chiefs,31
+2023,12,11/26/2023,16:25,-5,Philadelphia,Philadelphia Eagles,37,Buffalo Bills,34
+2023,12,11/26/2023,17:20,-8,Inglewood,Los Angeles Chargers,10,Baltimore Ravens,20
+2023,12,11/27/2023,19:15,-6,Minneapolis,Minnesota Vikings,10,Chicago Bears,12
+2023,13,11/30/2023,19:15,-6,Arlington,Dallas Cowboys,41,Seattle Seahawks,35
+2023,13,12/3/2023,12:00,-6,New Orleans,New Orleans Saints,28,Detroit Lions,33
+2023,13,12/3/2023,13:00,-5,East Rutherford,New York Jets,8,Atlanta Falcons,13
+2023,13,12/3/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,10,Arizona Cardinals,24
+2023,13,12/3/2023,16:05,-5,Tampa,Tampa Bay Buccaneers,21,Carolina Panthers,18
+2023,13,12/3/2023,13:00,-5,Foxborough,New England Patriots,0,Los Angeles Chargers,6
+2023,13,12/3/2023,12:00,-6,Nashville,Tennessee Titans,28,Indianapolis Colts,31
+2023,13,12/3/2023,13:00,-5,Landover,Washington Commanders,15,Miami Dolphins,45
+2023,13,12/3/2023,12:00,-6,Houston,Houston Texans,22,Denver Broncos,17
+2023,13,12/3/2023,16:25,-5,Philadelphia,Philadelphia Eagles,19,San Francisco 49ers,42
+2023,13,12/3/2023,13:25,-8,Inglewood,Los Angeles Rams,36,Cleveland Browns,19
+2023,13,12/3/2023,19:20,-6,Green Bay,Green Bay Packers,27,Kansas City Chiefs,19
+2023,13,12/4/2023,20:15,-5,Jacksonville,Jacksonville Jaguars,31,Cincinnati Bengals,34
+2023,14,12/7/2023,20:15,-5,Pittsburgh,Pittsburgh Steelers,18,New England Patriots,21
+2023,14,12/10/2023,13:00,-5,Baltimore,Baltimore Ravens,37,Los Angeles Rams,31
+2023,14,12/10/2023,12:00,-6,Chicago,Chicago Bears,28,Detroit Lions,13
+2023,14,12/10/2023,12:00,-6,New Orleans,New Orleans Saints,28,Carolina Panthers,6
+2023,14,12/10/2023,13:00,-5,East Rutherford,New York Jets,30,Houston Texans,6
+2023,14,12/10/2023,13:00,-5,Atlanta,Atlanta Falcons,25,Tampa Bay Buccaneers,29
+2023,14,12/10/2023,13:00,-5,Cincinnati,Cincinnati Bengals,34,Indianapolis Colts,14
+2023,14,12/10/2023,13:00,-5,Cleveland,Cleveland Browns,31,Jacksonville Jaguars,27
+2023,14,12/10/2023,13:05,-8,Las Vegas,Las Vegas Raiders,0,Minnesota Vikings,3
+2023,14,12/10/2023,13:05,-8,Santa Clara,San Francisco 49ers,28,Seattle Seahawks,16
+2023,14,12/10/2023,15:25,-6,Kansas City,Kansas City Chiefs,17,Buffalo Bills,20
+2023,14,12/10/2023,13:25,-8,Inglewood,Los Angeles Chargers,7,Denver Broncos,24
+2023,14,12/10/2023,19:20,-6,Arlington,Dallas Cowboys,33,Philadelphia Eagles,13
+2023,14,12/11/2023,20:15,-5,Miami Gardens,Miami Dolphins,27,Tennessee Titans,28
+2023,14,12/11/2023,20:15,-5,East Rutherford,New York Giants,24,Green Bay Packers,22
+2023,15,12/14/2023,17:15,-8,Las Vegas,Las Vegas Raiders,63,Los Angeles Chargers,21
+2023,15,12/16/2023,13:00,-5,Cincinnati,Cincinnati Bengals,27,Minnesota Vikings,24
+2023,15,12/17/2023,13:00,-5,Cleveland,Cleveland Browns,20,Chicago Bears,17
+2023,15,12/16/2023,20:15,-5,Detroit,Detroit Lions,42,Denver Broncos,17
+2023,15,12/17/2023,12:00,-6,Green Bay,Green Bay Packers,20,Tampa Bay Buccaneers,34
+2023,15,12/16/2023,16:30,-5,Indianapolis,Indianapolis Colts,30,Pittsburgh Steelers,13
+2023,15,12/17/2023,13:00,-5,Miami Gardens,Miami Dolphins,30,New York Jets,0
+2023,15,12/17/2023,12:00,-6,New Orleans,New Orleans Saints,24,New York Giants,6
+2023,15,12/17/2023,12:00,-6,Nashville,Tennessee Titans,16,Houston Texans,19
+2023,15,12/17/2023,13:00,-5,Charlotte,Carolina Panthers,9,Atlanta Falcons,7
+2023,15,12/17/2023,13:05,-8,Inglewood,Los Angeles Rams,28,Washington Commanders,20
+2023,15,12/17/2023,14:05,-7,Glendale,Arizona Cardinals,29,San Francisco 49ers,45
+2023,15,12/18/2023,17:15,-8,Seattle,Seattle Seahawks,20,Philadelphia Eagles,17
+2023,15,12/17/2023,16:25,-5,Orchard Park,Buffalo Bills,31,Dallas Cowboys,10
+2023,15,12/17/2023,20:20,-5,Jacksonville,Jacksonville Jaguars,7,Baltimore Ravens,23
+2023,15,12/17/2023,13:00,-5,Foxborough,New England Patriots,17,Kansas City Chiefs,27
+2023,16,12/21/2023,17:15,-8,Inglewood,Los Angeles Rams,30,New Orleans Saints,22
+2023,16,12/23/2023,16:30,-5,Pittsburgh,Pittsburgh Steelers,34,Cincinnati Bengals,11
+2023,16,12/23/2023,17:00,-8,Inglewood,Los Angeles Chargers,22,Buffalo Bills,24
+2023,16,12/24/2023,13:00,-5,Charlotte,Carolina Panthers,30,Green Bay Packers,33
+2023,16,12/24/2023,12:00,-6,Minneapolis,Minnesota Vikings,24,Detroit Lions,30
+2023,16,12/24/2023,13:00,-5,East Rutherford,New York Jets,30,Washington Commanders,28
+2023,16,12/24/2023,12:00,-6,Nashville,Tennessee Titans,17,Seattle Seahawks,20
+2023,16,12/24/2023,13:00,-5,Atlanta,Atlanta Falcons,29,Indianapolis Colts,10
+2023,16,12/24/2023,12:00,-6,Houston,Houston Texans,22,Cleveland Browns,36
+2023,16,12/24/2023,16:05,-5,Tampa Bay,Tampa Bay Buccaneers,30,Jacksonville Jaguars,12
+2023,16,12/24/2023,15:25,-6,Chicago,Chicago Bears,27,Arizona Cardinals,16
+2023,16,12/24/2023,16:25,-5,Miami Gardens,Miami Dolphins,22,Dallas Cowboys,20
+2023,16,12/24/2023,18:15,-7,Denver,Denver Broncos,23,New England Patriots,26
+2023,16,12/25/2023,12:00,-6,Kansas City,Kansas City Chiefs,14,Las Vegas Raiders,20
+2023,16,12/25/2023,16:30,-5,Philadelphia,Philadelphia Eagles,33,New York Giants,25
+2023,16,12/25/2023,17:15,-8,Santa Clara,San Francisco 49ers,19,Baltimore Ravens,33
+2023,17,12/28/2023,20:15,-5,Cleveland,Cleveland Browns,37,New York Jets,20
+2023,17,12/30/2023,19:15,-6,Arlington,Dallas Cowboys,20,Detroit Lions,19
+2023,17,12/31/2023,13:00,-5,Orchard Park,Buffalo Bills,27,New England Patriots,21
+2023,17,12/31/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,26,Carolina Panthers,0
+2023,17,12/31/2023,13:00,-5,East Rutherford,New York Giants,25,Los Angeles Rams,26
+2023,17,12/31/2023,13:00,-5,Philadelphia,Philadelphia Eagles,31,Arizona Cardinals,35
+2023,17,12/31/2023,13:00,-5,Baltimore,Baltimore Ravens,56,Miami Dolphins,19
+2023,17,12/31/2023,12:00,-6,Chicago,Chicago Bears,37,Atlanta Falcons,17
+2023,17,12/31/2023,12:00,-6,Houston,Houston Texans,26,Tennessee Titans,3
+2023,17,12/31/2023,13:00,-5,Indianapolis,Indianapolis Colts,23,Las Vegas Raiders,20
+2023,17,12/31/2023,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,13,New Orleans Saints,23
+2023,17,12/31/2023,13:00,-5,Landover,Washington Commanders,10,San Francisco 49ers,27
+2023,17,12/31/2023,13:05,-8,Seattle,Seattle Seahawks,23,Pittsburgh Steelers,30
+2023,17,12/31/2023,14:25,-7,Denver,Denver Broncos,16,Los Angeles Chargers,9
+2023,17,12/31/2023,15:25,-6,Kansas City,Kansas City Chiefs,25,Cincinnati Bengals,17
+2023,17,12/31/2023,19:20,-6,Minneapolis,Minnesota Vikings,10,Green Bay Packers,33
+2023,18,1/7/2024,20:20,-5,Miami Gardens,Miami Dolphins,14,Buffalo Bills,21
+2023,18,1/7/2024,14:25,-7,Glendale,Arizona Cardinals,20,Seattle Seahawks,21
+2023,18,1/6/2024,16:30,-5,Baltimore,Baltimore Ravens,10,Pittsburgh Steelers,17
+2023,18,1/7/2024,13:00,-5,Charlotte,Carolina Panthers,0,Tampa Bay Buccaneers,9
+2023,18,1/7/2024,13:00,-5,Cincinnati,Cincinnati Bengals,31,Cleveland Browns,14
+2023,18,1/7/2024,13:00,-5,Detroit,Detroit Lions,30,Minnesota Vikings,20
+2023,18,1/7/2024,15:25,-6,Green Bay,Green Bay Packers,17,Chicago Bears,9
+2023,18,1/7/2024,13:25,-8,Inglewood,Los Angeles Chargers,12,Kansas City Chiefs,13
+2023,18,1/7/2024,13:00,-5,Foxborough,New England Patriots,3,New York Jets,17
+2023,18,1/7/2024,12:00,-6,New Orleans,New Orleans Saints,48,Atlanta Falcons,17
+2023,18,1/7/2024,12:00,-6,Nashville,Tennessee Titans,28,Jacksonville Jaguars,20
+2023,18,1/7/2024,16:25,-5,Landover,Washington Commanders,10,Dallas Cowboys,38
+2023,18,1/7/2024,16:25,-5,East Rutherford,New York Giants,27,Philadelphia Eagles,10
+2023,18,1/6/2024,20:15,-5,Indianapolis,Indianapolis Colts,19,Houston Texans,23
+2023,18,1/7/2024,13:25,-8,Las Vegas,Las Vegas Raiders,27,Denver Broncos,14
+2023,18,1/7/2024,13:25,-8,Santa Clara,San Francisco 49ers,20,Los Angeles Rams,21

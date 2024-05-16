@@ -1,0 +1,12 @@
+Assume home team advantage for any given game to start framing our questions pertaining to game outcome.
+
+Which game site has the most frequent inclement weather?
+
+Is the home team more likely to win if a roof is retractable or fixed to be closed during incelement weather?
+
+How much effect does wind speed greater than 10 have on a home team winning a match? (10 is decided as the arbitrary threshold in which wind might start affecting things like passes or kicks)
+
+Which team has the best peformance in high wind speed/high rain weather?
+
+Which surface type creates the most impediment when suffering from rain? (impediment measured by total score between both teams, ie a surface that is particularly prone to inclement weather would have a lower total score on average than one that is not)
+
